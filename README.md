@@ -7,6 +7,8 @@ Name: Phong
 - **Other**: Discord Bot(python and js),  
 - **Language**: C/C++, Python, Javascript, Dart, GoLang
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PNMnasa&theme=radical)
+
 **Learning**: Vulkan, Reactjs, Godot, Unity and Rust
 
 ### **My favorite task**
