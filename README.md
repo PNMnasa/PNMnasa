@@ -24,8 +24,6 @@ Name: Phong
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=PNMnasa&theme=radical&layout=compact)
 
-![GitHub Streak](https://github-stats-extended.vercel.app/api?username=PNMnasa&theme=radical&type=compact)
-
 ---
 
 ### **Projects**
