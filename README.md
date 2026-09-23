@@ -30,7 +30,7 @@ Name: Phong
 
 | Project | Description |
 |---------|-------------|
-| *Your Project 1* | Description here |
+| [*Editor*](https://github.com/PNMnasa/editor) | Editor |
 | *Your Project 2* | Description here |
 
 ---
